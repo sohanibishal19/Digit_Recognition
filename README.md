@@ -16,3 +16,7 @@ A Python GUI application using Tkinter that lets users draw handwritten digits a
 - pandas
 - Pillow (PIL)
 - Tkinter (usually included in standard Python)
+
+  Install dependencies:
+```bash
+pip install opencv-python numpy pandas pillow
